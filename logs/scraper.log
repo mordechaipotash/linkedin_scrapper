@@ -1,1 +1,2 @@
 # This will be filled by the scraper's logging
+ERROR:root:Failed to scrape: https://www.linkedin.com/in/some-profile | Error: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /in/some-profile (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 502 Bad Gateway')))
